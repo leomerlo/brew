@@ -1,0 +1,1543 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"record",
+				"recordType"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"fiel",
+				"fieldValues"
+			],
+			[
+				"reco",
+				"recordIds"
+			],
+			[
+				"fo",
+				"foreach"
+			],
+			[
+				"field",
+				"field_types"
+			],
+			[
+				"record_",
+				"record_types"
+			],
+			[
+				"it",
+				"it\tit"
+			],
+			[
+				"toBe",
+				"tbltoet\ttoBeLessThanOrEqualTo"
+			],
+			[
+				"tb",
+				"tbo\ttoBeObject"
+			],
+			[
+				"translate",
+				"translate_this"
+			],
+			[
+				"sele",
+				"selections_allowed"
+			],
+			[
+				"getQue",
+				"getQuestion"
+			],
+			[
+				"cdn",
+				"cdn\tjQuery"
+			],
+			[
+				"get",
+				"getOptions"
+			],
+			[
+				"mul",
+				"multiselect"
+			],
+			[
+				"selec",
+				"selected_qids"
+			],
+			[
+				"sig",
+				"significance"
+			],
+			[
+				"Benck",
+				"BenchmarkReport"
+			],
+			[
+				"multi",
+				"multiselect_options"
+			],
+			[
+				"multise",
+				"multiselect_options"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"block",
+				"block_wrapper"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"modal",
+				"modalOptions"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"trans",
+				"translate\ttranslateThis"
+			],
+			[
+				"translat",
+				"translate_this"
+			],
+			[
+				"transla",
+				"translate_this"
+			],
+			[
+				"bench",
+				"benchmark_report_page"
+			],
+			[
+				"table-",
+				"table-row-group\tdisplay"
+			],
+			[
+				"accesi",
+				"accesibleTables"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"dis",
+				"display\tproperty"
+			],
+			[
+				"self",
+				"selfTour"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"tra",
+				"translate_this"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"cn",
+				"cfg_name"
+			],
+			[
+				"search",
+				"searchDescription"
+			],
+			[
+				"chang",
+				"changeTab"
+			],
+			[
+				"replace",
+				"replaceWith"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"local",
+				"localStorage"
+			],
+			[
+				"sear",
+				"searchDescription"
+			],
+			[
+				"tran",
+				"translateY()\ttransform"
+			],
+			[
+				"sea",
+				"searchDescription"
+			],
+			[
+				"completed",
+				"completed_val"
+			],
+			[
+				"CURR",
+				"currentMinutes"
+			],
+			[
+				"timeout",
+				"timeoutUTC"
+			],
+			[
+				"perl",
+				"perl\ttemplateToolkit"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fixe",
+				"isFixed"
+			],
+			[
+				"tour",
+				"tour_steps"
+			],
+			[
+				"wordle",
+				"wordle_filter"
+			],
+			[
+				"bt",
+				"btn-primary"
+			],
+			[
+				"nex",
+				"next_button"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"plan-",
+				"plan-action-tab-panel"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"ben",
+				"benchmark_id"
+			],
+			[
+				"BOX-",
+				"box-sizing"
+			],
+			[
+				"quest",
+				"question_options"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"ex",
+				"excluded"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"box-",
+				"box-sizing"
+			],
+			[
+				"resi",
+				"resizeTiles"
+			],
+			[
+				"soe",
+				"sorted_q"
+			],
+			[
+				"cell_",
+				"cell_val_2"
+			],
+			[
+				"cell",
+				"cell_val_1"
+			],
+			[
+				"tou",
+				"tour_steps"
+			],
+			[
+				"widget",
+				"widget_index"
+			],
+			[
+				"widge",
+				"widgetIndex"
+			],
+			[
+				"blo",
+				"block_wrapper"
+			],
+			[
+				"op",
+				"opacity"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/Models/RecordType.php",
+			"settings":
+			{
+				"buffer_size": 1377,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/FrontEndController.php",
+			"settings":
+			{
+				"buffer_size": 1352,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Providers/AppServiceProvider.php",
+			"settings":
+			{
+				"buffer_size": 1094,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/blog/listing.blade.php",
+			"settings":
+			{
+				"buffer_size": 992,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"file": "resources/views/post/default.blade.php",
+			"file_size": 657,
+			"file_write_time": 131872366343320138,
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/blog/default.blade.php",
+			"settings":
+			{
+				"buffer_size": 657,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/layouts/menu.blade.php",
+			"settings":
+			{
+				"buffer_size": 680,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/layouts/main.blade.php",
+			"settings":
+			{
+				"buffer_size": 3196,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur quis illo commodi sequi veritatis quidem amet explicabo quam, ullam hic omnis, repudiandae, et molestias porro animi, eum minus dolorem. Eveniet reiciendis eos quis perspiciatis cupiditate dolores similique placeat voluptate corporis distinctio, vero accusantium blanditiis soluta dolore aut voluptatum molestiae? In, aperiam ducimus obcaecati ipsam quod numquam doloremque fuga, illum voluptates veritatis explicabo. Exercitationem id repellat accusantium aliquid non excepturi natus consequuntur adipisci eos architecto, sunt nesciunt enim accusamus ipsam nostrum. Saepe deserunt ut distinctio sint debitis error quas accusantium perferendis hic odio possimus fugit nam, exercitationem voluptatem numquam nisi, doloribus soluta aspernatur libero. Perspiciatis voluptate voluptatem in. Doloremque error distinctio, fugiat veniam, sequi id impedit, nesciunt quas fuga praesentium vero nihil repellat odio voluptatem explicabo. Soluta illum cum, dolores alias obcaecati amet adipisci quos! At quis velit fuga minus iste hic reiciendis iure aliquid blanditiis ut optio sed ex harum molestiae ratione, nobis, odio consequatur. Saepe, repellendus architecto fugit, quas dicta suscipit aut assumenda perspiciatis eos cupiditate rerum voluptatibus quasi eum non ut laborum, unde, vel. Perferendis quod assumenda dolor voluptatibus quasi voluptates esse nostrum ut quis modi placeat doloribus distinctio, nam nihil, aspernatur velit perspiciatis! Pariatur eaque totam ducimus.",
+			"settings":
+			{
+				"buffer_size": 1535,
+				"line_ending": "Unix",
+				"name": "Lorem ipsum dolor sit amet, consectetur adipisicin"
+			}
+		},
+		{
+			"file": "app/Models/Record.php",
+			"settings":
+			{
+				"buffer_size": 1938,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/css/site.css",
+			"settings":
+			{
+				"buffer_size": 2841,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"jasmine",
+				"Set Syntax: Jasmine"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/leomerlo/laravel/brew",
+		"/Users/leomerlo/laravel/brew/app",
+		"/Users/leomerlo/laravel/brew/app/Providers",
+		"/Users/leomerlo/laravel/brew/resources",
+		"/Users/leomerlo/laravel/brew/resources/views",
+		"/Users/leomerlo/laravel/brew/resources/views/blog",
+		"/Users/leomerlo/laravel/brew/resources/views/layouts",
+		"/Users/leomerlo/laravel/brew/resources/views/page",
+		"/Users/leomerlo/laravel/brew/resources/views/records",
+		"/Users/leomerlo/laravel/brew/resources/views/recordType",
+		"/Users/leomerlo/Desktop/Gallino"
+	],
+	"file_history":
+	[
+		"/Users/leomerlo/laravel/brew/app/Http/Controllers/FrontEndController.php",
+		"/Users/leomerlo/laravel/brew/resources/views/recordType/view.blade.php",
+		"/Users/leomerlo/laravel/brew/resources/views/blog/listing.blade.php",
+		"/Users/leomerlo/laravel/brew/resources/views/recordType/default.blade.php",
+		"/Users/leomerlo/laravel/brew/app/Models/Record.php",
+		"/Users/leomerlo/laravel/brew/resources/views/records/view.blade.php",
+		"/Users/leomerlo/laravel/brew/public/js/improved-links.js",
+		"/Users/leomerlo/laravel/brew/app/Http/Controllers/RecordsController.php",
+		"/Users/leomerlo/laravel/brew/resources/views/records/listing.blade.php",
+		"/Users/leomerlo/laravel/brew/routes/web.php",
+		"/Users/leomerlo/laravel/brew/app/Http/Middleware/VerificarSlug.php",
+		"/Users/leomerlo/laravel/brew/resources/views/recordType/formAdd.blade.php",
+		"/Users/leomerlo/laravel/brew/resources/views/records/formAdd.blade.php",
+		"/Users/leomerlo/laravel/brew/app/Http/Controllers/RecordTypesController.php",
+		"/Users/leomerlo/laravel/brew/app/Models/RecordType.php",
+		"/Users/leomerlo/laravel/brew/resources/views/page/blog.blade.php",
+		"/Users/leomerlo/laravel/brew/resources/views/recordType/formEdit.blade.php",
+		"/Users/leomerlo/laravel/brew/resources/views/post/default.blade.php",
+		"/Users/leomerlo/laravel/brew/resources/views/comments/show.blade.php",
+		"/Users/leomerlo/laravel/brew/resources/views/comments/form.blade.php",
+		"/Users/leomerlo/laravel/brew/resources/views/records/formEdit.blade.php",
+		"/Users/leomerlo/laravel/brew/database/migrations/2018_11_20_234838_add_field_show_on_menu_record_type.php",
+		"/Users/leomerlo/laravel/brew/database/migrations/2018_11_20_223209_add_field_show_on_menu_records.php",
+		"/Users/leomerlo/laravel/brew/resources/views/page/default.blade.php",
+		"/Users/leomerlo/laravel/brew/resources/views/layouts/menu.blade.php",
+		"/Users/leomerlo/laravel/brew/resources/views/layouts/main.blade.php",
+		"/Users/leomerlo/laravel/brew/resources/views/layouts/app.blade.php",
+		"/Users/leomerlo/laravel/brew/resources/views/records/default.blade.php",
+		"/Users/leomerlo/laravel/brew/public/css/app.css",
+		"/Users/leomerlo/laravel/brew/database/seeds/Fields.php",
+		"/Users/leomerlo/laravel/brew/public/css/site.css",
+		"/Users/leomerlo/laravel/brew/app/Providers/AppServiceProvider.php",
+		"/Users/leomerlo/laravel/brew/resources/views/fields/listing.blade.php",
+		"/Users/leomerlo/laravel/brew/app/Models/Field.php",
+		"/Users/leomerlo/laravel/brew/resources/views/renders/file.blade.php",
+		"/Users/leomerlo/laravel/brew/database/seeds/FieldValues.php",
+		"/Users/leomerlo/laravel/brew/database/seeds/Records.php",
+		"/Users/leomerlo/laravel/brew/app/Http/Controllers/CommentsController.php",
+		"/Users/leomerlo/laravel/brew/resources/views/layouts/foot.blade.php",
+		"/Users/leomerlo/laravel/brew/webpack.mix.js",
+		"/Users/leomerlo/laravel/brew/resources/views/fields/formEdit.blade.php",
+		"/Users/leomerlo/laravel/brew/database/seeds/DatabaseSeeder.php",
+		"/Users/leomerlo/laravel/brew/resources/views/user/listing.blade.php",
+		"/Users/leomerlo/laravel/brew/resources/views/recordType/listing.blade.php",
+		"/Users/leomerlo/laravel/brew/resources/views/patroklo/links/data.blade.php",
+		"/Users/leomerlo/laravel/brew/config/app.php",
+		"/Users/leomerlo/laravel/brew/app/Http/Controllers/FieldsController.php",
+		"/Users/leomerlo/laravel/brew/database/seeds/FieldRecordTypes.php",
+		"/Users/leomerlo/laravel/brew/database/seeds/FieldTypes.php",
+		"/Users/leomerlo/laravel/brew/database/seeds/RecordTypes.php",
+		"/Users/leomerlo/laravel/brew/database/migrations/2018_11_20_001838_create_configs_table.php",
+		"/Users/leomerlo/laravel/brew/database/seeds/SiteConfig.php",
+		"/Users/leomerlo/laravel/brew/database/seeds/Users.php",
+		"/Users/leomerlo/laravel/brew/database/seeds/FieldRecords.php",
+		"/Users/leomerlo/laravel/brew/database/seeds/InitialCopy.php",
+		"/Users/leomerlo/laravel/brew/resources/views/renders/select.blade.php",
+		"/Users/leomerlo/laravel/brew/resources/views/renders/textarea.blade.php",
+		"/Users/leomerlo/laravel/brew/resources/views/renders/input.blade.php",
+		"/Users/leomerlo/laravel/brew/config/auth.php",
+		"/Users/leomerlo/laravel/brew/app/User.php",
+		"/Users/leomerlo/laravel/brew/resources/views/user/formEdit.blade.php",
+		"/Users/leomerlo/laravel/brew/app/Http/Controllers/UsersController.php",
+		"/Users/leomerlo/laravel/brew/app/Http/Controllers/Auth/RegisterController.php",
+		"/Users/leomerlo/laravel/brew/app/Http/Kernel.php",
+		"/Users/leomerlo/laravel/brew/app/Http/Middleware/VerificarAuthLevel.php",
+		"/Users/leomerlo/laravel/brew/database/migrations/2018_11_19_222259_add_delete_column_users.php",
+		"/Users/leomerlo/laravel/brew/app/Models/Comment.php",
+		"/Users/leomerlo/laravel/brew/app/Models/Usuario.php",
+		"/Users/leomerlo/laravel/brew/resources/views/fields/formAdd.blade.php",
+		"/Users/leomerlo/laravel/brew/resources/views/user/formAdd.blade.php",
+		"/Users/leomerlo/laravel/brew/database/migrations/2018_11_03_202918_create_fields_type_table.php",
+		"/Users/leomerlo/laravel/brew/database/migrations/2018_11_03_202919_create_fields_table.php",
+		"/Users/leomerlo/laravel/brew/database/migrations/2018_11_04_225914_create_field_record_table.php",
+		"/Users/leomerlo/Desktop/Gallino/clase-12/database/seeds/DatabaseSeeder.php",
+		"/Users/leomerlo/laravel/brew/database/seeds/InitialSeeder.php",
+		"/Users/leomerlo/laravel/brew/database/seeds/InitialSiteSeeder.php",
+		"/Users/leomerlo/laravel/brew/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/Users/leomerlo/laravel/brew/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/Users/leomerlo/laravel/brew/database/migrations/2018_11_03_202847_create_record_types_table.php",
+		"/Users/leomerlo/laravel/brew/database/migrations/2018_11_03_2028499_create_records_table.php",
+		"/Users/leomerlo/laravel/brew/database/migrations/2018_11_03_231723_create_field_record_type_table.php",
+		"/Users/leomerlo/laravel/brew/database/migrations/2018_11_03_203847_create_fields_values_table.php",
+		"/Users/leomerlo/laravel/brew/database/migrations/2018_11_03_203656_create_fields_type_table.php",
+		"/Users/leomerlo/laravel/brew/database/migrations/2018_11_03_203005_create_configurations_table.php",
+		"/Users/leomerlo/laravel/brew/database/migrations/2018_11_19_141438_create_comments_table.php",
+		"/Users/leomerlo/laravel/brew/storage/logs/laravel.log",
+		"/Users/leomerlo/laravel/brew/resources/views/layouts/error.blade.php",
+		"/Users/leomerlo/laravel/brew/app/Http/Middleware/VerificarUserAccess.php",
+		"/Users/leomerlo/laravel/brew/resources/views/auth/login.blade.php",
+		"/Users/leomerlo/laravel/brew/app/Http/Controllers/Auth/LoginController.php",
+		"/Users/leomerlo/laravel/brew/resources/views/auth/register.blade.php",
+		"/Users/leomerlo/laravel/brew/database/migrations/2018_11_03_202709_create_records_table.php",
+		"/Users/leomerlo/laravel/brew/database/migrations/2018_11_03_230112_change_field_options_null.php",
+		"/Users/leomerlo/laravel/brew/database/migrations/2018_11_03_204555_add_record_foreign_keys.php",
+		"/Users/leomerlo/laravel/brew/database/migrations/2018_11_03_224328_add_field_foreign_key.php",
+		"/Users/leomerlo/laravel/brew/database/migrations/2018_11_19_142220_table_comments_add_user_id.php",
+		"/Users/leomerlo/laravel/brew/database/migrations/2018_11_19_182042_update_users_add_auth_level_column.php",
+		"/Users/leomerlo/laravel/brew/database/seeds/FieldTypeTableSeeder.php",
+		"/Users/leomerlo/laravel/brew/resources/views/comments/list.blade.php",
+		"/Users/leomerlo/laravel/brew/database/migrations/2018_11_19_170405_create_usuarios_table.php",
+		"/Users/leomerlo/laravel/brew/resources/views/layouts/record.blade.php",
+		"/Users/leomerlo/laravel/brew/resources/views/layouts/head.blade.php",
+		"/Users/leomerlo/laravel/brew/resources/views/page/page-homepage.blade.php",
+		"/Users/leomerlo/laravel/brew/app/Models/FieldValue.php",
+		"/Users/leomerlo/laravel/brew/app/Repositories/EloquentRecordRepository.php",
+		"/Users/leomerlo/laravel/brew/public/css/all.css",
+		"/Users/leomerlo/laravel/brew/resources/views/renders/text.blade.php",
+		"/Users/leomerlo/laravel/brew/public/js/fields.form.js",
+		"/Users/leomerlo/laravel/brew/public/js/forms.js",
+		"/Users/leomerlo/laravel/brew/public/js/fields.listing.js",
+		"/Users/leomerlo/laravel/brew/public/css/vendors.css",
+		"/Users/leomerlo/laravel/brew/public/js/select2.min.js",
+		"/Users/leomerlo/laravel/brew/public/js/select2.js",
+		"/Users/leomerlo/laravel/brew/public/js/fieldlisting.js",
+		"/Users/leomerlo/laravel/brew/public/js/field.listing.js",
+		"/Volumes/LEO MERLO/fontawesome-pro-5.5.0-web/fontawesome-pro-5.5.0-web/css/all.css",
+		"/Volumes/LEO MERLO/fontawesome-pro-5.5.0-web/fontawesome-pro-5.5.0-web/css/all.min.css",
+		"/Volumes/LEO MERLO/fontawesome-pro-5.5.0-web/fontawesome-pro-5.5.0-web/css/fontawesome.min.css",
+		"/Users/leomerlo/laravel/brew/app/Models/FieldType.php",
+		"/Users/leomerlo/laravel/brew/resources/views/layouts/page.blade.php",
+		"/Users/leomerlo/laravel/brew/resources/views/page/page-1.blade.php",
+		"/Users/leomerlo/laravel/brew/public/js/popper.min.js",
+		"/Users/leomerlo/laravel/brew/app/Http/Controllers/HomeController.php",
+		"/Users/leomerlo/Desktop/Gallino/clase-12/resources/views/layouts/main.blade.php",
+		"/Users/leomerlo/laravel/brew/public/js/jquery.min.js",
+		"/Users/leomerlo/laravel/brew/app/field_value.php",
+		"/Users/leomerlo/laravel/brew/app/Repositories/Contracts/RecordRepositoryContract.php",
+		"/Users/leomerlo/laravel/brew/resources/views/layouts/listing.blade.php"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"/Users/leomerlo/laravel/brew/app/Http/Controllers",
+			"/Users/leomerlo/laravel/brew/app",
+			"/Users/leomerlo/laravel/brew",
+			"/Users/leomerlo/laravel/brew/database/migrations",
+			"/Users/leomerlo/laravel/brew/database",
+			"/Users/leomerlo/laravel/brew/app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"100px",
+			"recordType",
+			"record_types",
+			"2",
+			"layouts.app",
+			"checkbox",
+			"div",
+			"view",
+			"frontEnd",
+			"delete",
+			"');\n",
+			"formatOptions",
+			"formatOptionsString",
+			"formatOption",
+			"App\\Models\\Usuario",
+			"recordType/",
+			"CorsServiceProvider",
+			"barry",
+			"view()->share('menu', $record_types);",
+			"AppServiceProvider.php",
+			"record_type",
+			"record_types",
+			"home",
+			"\">\n",
+			"view",
+			"'\n",
+			"name",
+			"'\n",
+			"verifica",
+			"segment(1)",
+			"25%",
+			"25",
+			"    \n",
+			"fields_record",
+			";\n",
+			"El tipo de record",
+			"recordType.in",
+			"view",
+			"class=\"link\"",
+			".main",
+			"select2-container--bo",
+			"fieldType",
+			"h2",
+			"h1",
+			"/webfonts/",
+			"2",
+			"fecha",
+			"fieldsValues",
+			"record->",
+			"with",
+			"fields",
+			",\n",
+			"fieldValue",
+			"record",
+			"data",
+			"view",
+			"configs",
+			"recordType",
+			"RecordType",
+			"recordType",
+			"RecordType",
+			"recordType",
+			"RecordType",
+			"recordType",
+			"RecordType",
+			"recordType",
+			"RecordType",
+			"recordType",
+			"RecordType",
+			"recordType",
+			"sync",
+			"record_type",
+			"dd(",
+			"dd",
+			"app\\models\\",
+			"app\\models\\u",
+			"slug",
+			"user",
+			"users",
+			"user",
+			"store",
+			".type",
+			"type",
+			"<?",
+			"record.formAdd",
+			"fields",
+			"Fields",
+			"fields",
+			"Fields",
+			"fields",
+			"Fields",
+			"fields",
+			"id",
+			"withTrashed",
+			"span",
+			"directores",
+			"name",
+			"error",
+			"crear",
+			"director"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"class=\"link link-back\"",
+			"/fonts/",
+			"config"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/Models/RecordType.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1377,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1374,
+								1374
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 51.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Http/Controllers/FrontEndController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1352,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								852,
+								852
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 231.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/Providers/AppServiceProvider.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1094,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								899,
+								899
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "resources/views/blog/listing.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 992,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								448,
+								448
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "resources/views/post/default.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "resources/views/blog/default.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 657,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								657,
+								657
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "resources/views/layouts/menu.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 680,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								302,
+								302
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "resources/views/layouts/main.blade.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3196,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2760,
+								2352
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 418.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1535,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1535
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Lorem ipsum dolor sit amet, consectetur adipisicin",
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "app/Models/Record.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1938,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1933,
+								1933
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 753.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 10,
+					"file": "public/css/site.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2841,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								357,
+								357
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.593780630142,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "brew.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rweb",
+				"brew/routes/web.php"
+			],
+			[
+				"databaseSeeder",
+				"Gallino/clase-12/database/seeds/DatabaseSeeder.php"
+			],
+			[
+				"databaseSeed",
+				"Gallino/clase-12/database/seeds/DatabaseSeeder.php"
+			],
+			[
+				"appservic",
+				"brew/app/Providers/AppServiceProvider.php"
+			],
+			[
+				"webpack.mix.js",
+				"brew/webpack.mix.js"
+			],
+			[
+				"base2-p",
+				"js/base2-p.js"
+			],
+			[
+				"base2.",
+				"js/base2-p.js"
+			],
+			[
+				"data/js/boot",
+				"data/js/bootstrap.min.js"
+			],
+			[
+				"data/css/bootstrap.css",
+				"data/css/bootstrap.min.css"
+			],
+			[
+				"nikes82",
+				"Admin/nikes82.pm"
+			],
+			[
+				"overla",
+				"default/dashboard/overlay.html"
+			],
+			[
+				"scbes84b/design",
+				"templates/scbes84b/design2016/dashboard.html"
+			],
+			[
+				"scbes84/design",
+				"templates/scbes84/design2016/dashboard.html"
+			],
+			[
+				"nikes82/design",
+				"templates/nikes82/design2016/dashboard.html"
+			],
+			[
+				"hfes88/design",
+				"perceptyx/templates/hfes88/design2016/dashboard.html"
+			],
+			[
+				"elkes",
+				"Admin/elkes89.pm"
+			],
+			[
+				"page_save",
+				"default/page_save_and_exit.html"
+			],
+			[
+				"page_resp.h",
+				"default/page_resp.html"
+			],
+			[
+				"page_rest",
+				"dc/page_resp_tree.css"
+			],
+			[
+				"page_langua",
+				"default/page_languages.html"
+			],
+			[
+				"page_in",
+				"default/page_inactive.html"
+			],
+			[
+				"page_enter",
+				"default/page_enter_pin.html"
+			],
+			[
+				"page_alert",
+				"default/page_alert.html"
+			],
+			[
+				"elkes89",
+				"Admin/elkes89.pm"
+			],
+			[
+				"local",
+				"MenuFramework/LocalConf.pm"
+			],
+			[
+				"mmces89",
+				"Admin/mmces89.pm"
+			],
+			[
+				"etcs8a",
+				"Admin/etcs8a.pm"
+			],
+			[
+				"MENUFRAME",
+				"perceptyx/perl/MenuFramework.pm"
+			],
+			[
+				"cmp_drop",
+				"design2016/cmp_dropdown.html"
+			],
+			[
+				"macro",
+				"default/macro.html"
+			],
+			[
+				"polls.pm",
+				"MenuFramework/Polls.pm"
+			],
+			[
+				"head.",
+				"mac/home_page/head.tmpl"
+			],
+			[
+				"tfes5b/dc/page_welcome.js",
+				"tfes5b/dc/page_welcome.js"
+			],
+			[
+				"scbes84b/design2016/new_action_plans.js",
+				"templates/scbes84b/design2016/new_action_plans.js"
+			],
+			[
+				"scbes84/design2016/new_action_plans.js",
+				"scbes84/design2016/new_action_plans.js"
+			],
+			[
+				"scbes78/design2016/new_action_plans.js",
+				"templates/scbes78/design2016/new_action_plans.js"
+			],
+			[
+				"praps83/design2016/new_action_plans.js",
+				"templates/praps83/design2016/new_action_plans.js"
+			],
+			[
+				"occsg/dc/page_master_local.js",
+				"templates/occsg/dc/page_master_local.js"
+			],
+			[
+				"dc/page_master_local.js",
+				"default/dc/page_master_local.js"
+			],
+			[
+				"mmces75/new_action_plans.js",
+				"templates/mmces75/new_action_plans.js"
+			],
+			[
+				"fxfes83/design2016/new_action_plans/new_action_plans_popup.js",
+				"fxfes83/design2016/new_action_plans/new_action_plans_popup.js"
+			],
+			[
+				"kcsurvey/design2016/new_action_plans.js",
+				"templates/kcsurvey/design2016/new_action_plans.js"
+			],
+			[
+				"default/translation_tool.js",
+				"default/translation_tool.js"
+			],
+			[
+				"default/new_action_plans/new_action_plans_popup.j",
+				"default/new_action_plans/new_action_plans_popup.js"
+			],
+			[
+				"default/new_action_plans.js",
+				"default/new_action_plans.js"
+			],
+			[
+				"default/design2016/translation_tool.js",
+				"default/design2016/translation_tool.js"
+			],
+			[
+				"default/design2016/new_action_plans.js",
+				"default/design2016/new_action_plans.js"
+			],
+			[
+				"default/design2016/fav_report/page.js",
+				"default/design2016/fav_report/page.js"
+			],
+			[
+				"aspes7a/design2016/new_action_plans.js",
+				"templates/aspes7a/design2016/new_action_plans.js"
+			],
+			[
+				"design2016/new_action_plans.js",
+				"design2016/new_action_plans.js"
+			],
+			[
+				"default/new_action_plans/new_action_plans_popup.js",
+				"default/new_action_plans/new_action_plans_popup.js"
+			],
+			[
+				"default/new_action_plans",
+				"default/new_action_plans.css"
+			],
+			[
+				"design2016/translation_tool.js",
+				"design2016/translation_tool.js"
+			],
+			[
+				"/design2016/comments2018/js/kewords-theme.js",
+				"default/design2016/comments2018/js/kewords-theme.js"
+			],
+			[
+				"design2016/comments2017/js/kewords-theme.js",
+				"design2016/comments2017/js/kewords-theme.js"
+			],
+			[
+				"default/configure/page.js",
+				"default/configure/page.js"
+			],
+			[
+				"bcazes5a/dc/page_master_local",
+				"templates/bcazes5a/dc/page_master_local.js"
+			],
+			[
+				"cities",
+				"Admin/cities89.pm"
+			],
+			[
+				"cities89ua",
+				"Admin/cities89uat.pm"
+			],
+			[
+				"data/fedex19",
+				"data/fedex19/dc/index.cgi"
+			],
+			[
+				"data/cities",
+				"data/cities89/index.cgi"
+			],
+			[
+				"fedex19.pm",
+				"Admin/fedex19.pm"
+			],
+			[
+				"global.js",
+				"design2016/js/global.js"
+			],
+			[
+				"hudps86",
+				"Admin/hudps86.pm"
+			],
+			[
+				"hudps83",
+				"Admin/hudps83.pm"
+			],
+			[
+				"segment.css",
+				"design2016/css/segment.css"
+			],
+			[
+				"nves85",
+				"Admin/nves85.pm"
+			],
+			[
+				"scbes84",
+				"Admin/scbes84.pm"
+			],
+			[
+				"macro.html",
+				"default/macro.html"
+			],
+			[
+				"jquery.multi",
+				"js/jquery.multiselect.min.js"
+			],
+			[
+				"fxoes71/slides_and_guides1/",
+				"templates/fxoes71/slides_and_guides1/direct_report_comparison.html"
+			],
+			[
+				"nbces",
+				"Admin/nbces76.pm"
+			],
+			[
+				"gapps85",
+				"Admin/gapps85_dc.pm"
+			],
+			[
+				"ches79.",
+				"Admin/ches79.pm"
+			],
+			[
+				"delles75",
+				"Admin/delles75.pm"
+			],
+			[
+				"delles85",
+				"Admin/delles85.pm"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Applications/XAMPP/xamppfiles/htdocs/bs/brontosaurio.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 349.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
